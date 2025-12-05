@@ -1,6 +1,6 @@
 {
-        "name": "視差捲動",
-        "short_name": "視差捲動",
+	"name": "Parallax Scroll",
+	"short_name": "Parallax Scroll",
 	"icons": [
 		{
 			"src": "Assets/android-chrome-192x192.png",
@@ -32,9 +32,9 @@
 	"theme_color": "#052238",
 	"background_color": "#052238",
 	"display": "standalone",
-        "lang": "zh-Hant",
+	"lang": "en-US",
 	"id": "https://emjose.github.io/parallax-scroll/",
 	"start_url": "/parallax-scroll/",
 	"scope": "/parallax-scroll/",
-        "description": "鋼鐵人視差捲動示範。"
+	"description": "A parallax scroll demo with Iron Man."
 }
